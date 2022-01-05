@@ -7,13 +7,14 @@ Quick learning abilities
 - __Mobile__: +375298018291 
 - __Scype__: aksutik_ania 
 - __Email__: aksutikania@gmail.com
+## SUMMARY
+My name is Anna. I am a sales manager with 2 years of experience, as well as a novice programmer. Now I am looking for a new opportunity that will allow me to use my learning skills and logic in the field of information technology, which is really attractive for me.
 ## EXPERIENCE
 ### __JSC BELHIM__, Minsk — sales specialist
 *August  2020 - PRESENT*
 Incoming applications, negotiations via telephone/email, CRM, documentation, market analysis, price determination
 ### LLC «NPP «Kontaktmodul», Minsk — Marketing Department Specialist
 *September 2019 – February 2020*
-
 Processing incoming applications, active search for clients, negotiations, conclusion of contracts, market research and segmentation; consulting on the assortment and technical parameters of the product (service)
 ## TEST, SERTIFICATES
 ### RS School – JS/FE Pre-School 2022
