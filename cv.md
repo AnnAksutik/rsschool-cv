@@ -7,6 +7,7 @@ Quick learning abilities
 - __Mobile__: +375298018291 
 - __Scype__: aksutik_ania 
 - __Email__: aksutikania@gmail.com
+- __GitHub__: https://github.com/AnnAksutik
 ## SUMMARY
 My name is Anna. I am a sales manager with 2 years of experience, as well as a novice programmer. Now I am looking for a new opportunity that will allow me to use my learning skills and logic in the field of information technology, which is really attractive for me.
 ## EXPERIENCE
