@@ -1,2 +1,1 @@
-# rsschool-cv
-CV - RSSchool project
+https://AnnAksutik.github.io/rsschool-cv/cv
