@@ -34,3 +34,31 @@ Data type bool and NoneType, nested lists, matrices, tuples, sets, dictionaries,
 *January 2021*
 Data input/output, conditional operator, data types
 For and while loops, string data type, lists, functions, working on a mini-project
+## SKILLS
+### Programming languages
+-   Python
+-   JavaScrypt
+-   Go
+### Backend
+-   Flask,Fastapi
+-   Django
+-   Django Rest Framework
+-   Celery
+-   SQLAlchemy
+-   Pydantic
+-   Marshmallow
+-   Alembic
+-   boto3
+### Cloud
+-   AWS
+### DevOps
+-   Docker
+-   Docker Compose
+### Message Brokers
+-   RabbitMQ
+### Databases
+-   PostgreSQL
+## LANGUAGES
+1. English *(Upper Intermediate)*
+1. Russian *(native)*
+1. Belarussian *(native)*
